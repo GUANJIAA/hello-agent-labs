@@ -1,0 +1,48 @@
+annotated-doc==0.0.4
+annotated-types==0.7.0
+anyio==4.12.1
+certifi==2026.2.25
+click==8.3.1
+colorama==0.4.6
+distro==1.9.0
+filelock @ file:///home/conda/feedstock_root/build_artifacts/filelock_1773118902479/work
+fsspec @ file:///home/conda/feedstock_root/build_artifacts/fsspec_1770387778895/work
+h11==0.16.0
+hf-xet==1.4.2
+httpcore==1.0.9
+httpx==0.28.1
+huggingface_hub==1.7.1
+idna==3.11
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_jinja2_1764517220/work
+jiter==0.13.0
+markdown-it-py==4.0.0
+MarkupSafe @ file:///D:/bld/markupsafe_1772444962153/work
+mdurl==0.1.2
+mpmath @ file:///home/conda/feedstock_root/build_artifacts/mpmath_1771870608577/work
+networkx @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_networkx_1765215107/work
+numpy @ file:///D:/bld/bld/rattler-build_numpy_1770098408/work/dist/numpy-2.4.2-cp312-cp312-win_amd64.whl#sha256=c8807c27a11e2491e06292976e3fc7a3ebaaec6532787fff4f153ce1a56a15d6
+openai==2.28.0
+optree @ file:///D:/bld/optree_1771868182412/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_packaging_1769093650/work
+pybind11 @ file:///D:/bld/bld/rattler-build_pybind11_1771365898/work
+pybind11-global @ file:///D:/bld/bld/rattler-build_pybind11-global_1771365898/work
+pydantic==2.12.5
+pydantic_core==2.41.5
+Pygments==2.19.2
+python-dotenv==1.2.2
+PyYAML==6.0.3
+regex==2026.2.28
+rich==14.3.3
+safetensors==0.7.0
+setuptools==82.0.0
+shellingham==1.5.4
+sniffio==1.3.1
+sympy @ file:///home/conda/feedstock_root/build_artifacts/sympy_1771952241027/work
+tokenizers==0.22.2
+torch @ file:///C:/bld/libtorch_1770197081624/work
+tqdm==4.67.3
+transformers==5.3.0
+typer==0.24.1
+typing-inspection==0.4.2
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1756220668/work
+wheel==0.46.3
